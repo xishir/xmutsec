@@ -17,3 +17,6 @@ body{background:#000000;}
 .content.content-about .about-list .about-item .text {
 	color: #777777;
 }
+.box-prev-next {
+	margin-top:0px;
+}

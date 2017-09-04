@@ -1,0 +1,19 @@
+body{background:#000000;}
+.content {
+  border-left: 4px solid #333333;
+}
+.content.content-post .article-header .post-title {
+	color: #ffffff;
+}
+.item-post .post-title {
+	color: #777777;
+}
+.item-year a.text-year {
+	color: #777777;
+}
+.page-header .box-blog-info img {
+	margin-top:30px;
+}
+.content.content-about .about-list .about-item .text {
+	color: #777777;
+}

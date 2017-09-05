@@ -31,7 +31,7 @@ body{background:#000000;}
 
 code {
   padding: 0px 2px;
-  vertical-align: middle;
+  vertical-align: baseline;
   border-radius: 0px;
   background-color: #000;
   color: #e96900;

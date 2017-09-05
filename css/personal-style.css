@@ -22,27 +22,27 @@ body{background:#000000;}
 }
 
 
-body{
-	overflow: hidden;  
-}
+	   body{
+			overflow: hidden;  
+		}
 
-.icon img {  
-    display: inline-block;  
-}  
+       .icon img {  
+           display: inline-block;  
+       }  
          
-.icon {  
-    width: 50%;  
-    text-align: center;  
-    margin: 5px auto;  
-}  
+       .icon {  
+           width: 50%;  
+           text-align: center;  
+           margin: 5px auto;  
+       }  
          
-.icon img {  
+       .icon img {  
            animation: myfirst 2s infinite;  
-}  
+       }  
 
 	   
          
-@keyframes myfirst {  
+       @keyframes myfirst {  
            0% {  
                transform: translate(0px, 0px);  
            }  
@@ -52,7 +52,7 @@ body{
            100% {  
                transform: translate(0px, 0px);  
            }  
-}   
+       }   
 	   
 
 .word{

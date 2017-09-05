@@ -21,6 +21,18 @@ body{background:#000000;}
 	margin-top:0px;
 }
 
+.article-content p{
+	color: #ffffff;
+}
+
+code {
+  padding: 0px 2px;
+  vertical-align: middle;
+  border-radius: 0px;
+  background-color: #000;
+  color: #e96900;
+}
+
 
 	   body{
 			overflow: hidden;  

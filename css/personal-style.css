@@ -12,13 +12,17 @@ body{background:#000000;}
 	color: #777777;
 }
 .page-header .box-blog-info img {
-	margin-top:30px;
+	margin-top:0px;
 }
 .content.content-about .about-list .about-item .text {
 	color: #777777;
 }
 .box-prev-next {
 	margin-top:0px;
+}
+
+.page-header .box-blog-info .info .name {
+	color: #ffffff;
 }
 
 .article-content p{

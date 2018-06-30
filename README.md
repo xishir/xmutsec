@@ -1,2 +1,2 @@
-# XMUTISC
-welcome to xmutisc!
+# XMUTSEC
+welcome to xmutsec!
